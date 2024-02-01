@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "175b8077198a0c59",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8269bfa229c8777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27efb81478410466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni Courses🎓.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c150225e14dd628e",
+    "type": "split",
+    "children": [
+      {
+        "id": "201a15977dd9c16f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d21b26013c66231c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82187884b8687cce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84523ed2a5aeb9f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "88b5ec7bf9099d34",
+    "type": "split",
+    "children": [
+      {
+        "id": "680705bb3b77e329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "739bf06c894e6c36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Uni Courses🎓.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2e088ef8a03ef32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Uni Courses🎓.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b198993653550fe4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fcb9984a54cd0da1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Uni Courses🎓.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "27efb81478410466",
+  "lastOpenFiles": [
+    "Files/Precise vs imprecise interrupts.png",
+    "Files/Allocating memory for processes.png",
+    "Files/approximating sampling distribution example.png",
+    "Files/Bank1 and bank2 histogram.png",
+    "Files/Bell-shaped density.png",
+    "Files/Block size impact.png",
+    "History of Computer Science/History of CS.md",
+    "History of Computer Science/HoCS - Lecture 1.md",
+    "Uni Courses🎓.md",
+    "Operating Systems/Operating Systems.md",
+    "Operating Systems/Mock Exam OS.md",
+    "Operating Systems/Input-Output.md",
+    "Operating Systems/File Systems.md",
+    "Operating Systems/Memory Management.md",
+    "Operating Systems/Processes and Threads.md",
+    "Operating Systems/Operating Systems Introduction.md",
+    "Information Management for CS/Information Management for CS.md",
+    "Pervasive Computing/Pervasive Computing.md",
+    "Pervasive Computing/Percom Week 1.md",
+    "Pervasive Computing/Percom Week 2.md",
+    "Pervasive Computing/Percom Week 3.md",
+    "Pervasive Computing/Percom Week 4.md",
+    "Computer Organization/Computer Organization.md",
+    "Computer Networks/Computer Networks.md",
+    "Computer Networks/Computer Networks Game Plan.md",
+    "Computer Networks/Computer Networks Chapter 2.md",
+    "Computer Networks/Computer Networks Chapter 3.md",
+    "Computer Networks/Computer Networks Chapter 4.md",
+    "Computer Networks/Computer Networks Chapter 5.md",
+    "Computer Networks/Computer Networks Chapter 6.md",
+    "Computer Networks/Computer Networks Chapter 7.md"
+  ]
+}
