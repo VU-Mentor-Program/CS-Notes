@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni Courses🎓.md",
+                "file": "Mentor Program/Git and Github.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni Courses🎓.md",
+                "file": "Mentor Program/Git and Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni Courses🎓.md",
+                "file": "Mentor Program/Git and Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni Courses🎓.md"
+                "file": "Mentor Program/Git and Github.md"
               }
             }
           }
@@ -149,6 +149,21 @@
   },
   "active": "27efb81478410466",
   "lastOpenFiles": [
+    "Computer Organization/Basic Structure of Computers.md",
+    "Computer Organization/Computer Organization.md",
+    "Computer Organization/Logic Circuits.md",
+    "Computer Networks/The Physical Layer.md",
+    "Computer Networks/Computer Networks.md",
+    "Logic and Sets/Disjunctive and Conjunctive normal forms, Adequate systems of connectives, Satisfiability.md",
+    "Mentor Program/Git and Github.md",
+    "Computer Organization/Instruction set reference.md",
+    "Computer Organization/Basic Processing Unit.md",
+    "Uni Courses🎓.md",
+    "Files/areas.png",
+    "Files/snapshots.png",
+    "Files/deltas.png",
+    "deltas.png",
+    "Mentor Program",
     "Files/Precise vs imprecise interrupts.png",
     "Files/Allocating memory for processes.png",
     "Files/approximating sampling distribution example.png",
@@ -157,7 +172,6 @@
     "Files/Block size impact.png",
     "History of Computer Science/History of CS.md",
     "History of Computer Science/HoCS - Lecture 1.md",
-    "Uni Courses🎓.md",
     "Operating Systems/Operating Systems.md",
     "Operating Systems/Mock Exam OS.md",
     "Operating Systems/Input-Output.md",
@@ -171,14 +185,6 @@
     "Pervasive Computing/Percom Week 2.md",
     "Pervasive Computing/Percom Week 3.md",
     "Pervasive Computing/Percom Week 4.md",
-    "Computer Organization/Computer Organization.md",
-    "Computer Networks/Computer Networks.md",
-    "Computer Networks/Computer Networks Game Plan.md",
-    "Computer Networks/Computer Networks Chapter 2.md",
-    "Computer Networks/Computer Networks Chapter 3.md",
-    "Computer Networks/Computer Networks Chapter 4.md",
-    "Computer Networks/Computer Networks Chapter 5.md",
-    "Computer Networks/Computer Networks Chapter 6.md",
-    "Computer Networks/Computer Networks Chapter 7.md"
+    "Computer Networks/Computer Networks Game Plan.md"
   ]
 }
